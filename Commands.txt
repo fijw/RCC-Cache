@@ -1,0 +1,3 @@
+kick {user id}
+ban {user id}
+temp-ban {user id}
